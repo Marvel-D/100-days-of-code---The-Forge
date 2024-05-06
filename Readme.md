@@ -20,7 +20,7 @@ Looking a bit complex? Not sue how to start... well you have a 100 days to figur
 
 It's gonna be a challenge, but I guess you wouldn't be here if wasn't.
 
-GodSpeed
+_GodSpeed_
 
 ## Kulture's Generic Commit Styling
 
