@@ -21,3 +21,16 @@ Looking a bit complex? Not sue how to start... well you have a 100 days to figur
 It's gonna be a challenge, but I guess you wouldn't be here if wasn't.
 
 GodSpeed
+
+## Kulture's Generic Commit Styling
+
+- feat: ⚡
+- style: ✨
+- fix: 🐛
+- refactor: ♻️
+- docs: 📝
+
+// pull from main branch
+// checkout to working branch
+// rebase main with 'git rebase main'
+// then push changes from branch 'git push -u origin main'
