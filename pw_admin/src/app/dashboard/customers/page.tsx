@@ -1,12 +1,7 @@
 import { ContainerW } from "@/app/components/dashboard";
 import { Btn, ActionBtn } from "@/app/components/shared";
-import { addTest2, addToDb, getData } from "@/app/lib/data";
 import Image from "next/image";
 import { PiGraph, PiPlus } from "react-icons/pi";
-
-// addToDb();
-// addTest2();
-// getData();
 
 export default function Page() {
   return (
